@@ -1,4 +1,4 @@
-<strong>Before installation\n<strong>
+<strong>Before installation<\n><strong>
 1.Update the OpenCore to the latest release,and also the kexts
 2.Generate your own SMbios  
 3.Change your bios settings
