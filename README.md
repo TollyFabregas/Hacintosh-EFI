@@ -10,3 +10,4 @@ Wirless : BCM94352Z<br>
 MacOs version :BigSur<br>
 <strong>*Sandy bridge Last Supported OS :macOS 12 Monterey<br></strong>
 <strong>*Sandy Bridge's iGPU is only officially supported up-to macOS 10.13<br></strong>
+![IMG_3118](https://github.com/TollyFabregas/Hacintosh-EFI/assets/145358380/f99a12c3-ca09-4d1b-a524-7de67298a8a3)
