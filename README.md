@@ -1,6 +1,6 @@
 <strong>Before installation<br></strong>
 1.Update the OpenCore to the latest release,and also the kexts<br>
-2.Generate your own SMbios<br>  
+2.Generate your own SMbios<br>
 3.Change your bios settings<br>
 <strong>PLatform info<br></strong>
 cpu : intel core i5 2500<br>
