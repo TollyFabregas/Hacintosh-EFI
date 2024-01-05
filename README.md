@@ -1,4 +1,4 @@
-The biggest bugs is I can't deal with the sound Card VIA VT1708s,there's no compatible kext for it<br>
+The biggest bugs is I can't deal with the sound Card <strong>VIA VT1708s</strong>,there's no compatible kext for it<br>
 <strong>Before installation<br></strong>
 1.Update the OpenCore to the latest release,and also the kexts<br>
 2.Generate your own SMbios<br>
